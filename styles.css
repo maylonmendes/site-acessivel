@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/Foto-1-Destaque-1.jpg')title="https://www.neymarjr.com/pt/football/2011-njr10-visao-global";
+    background-image: url('img/Foto-1-Destaque-1.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
